@@ -12,7 +12,7 @@
 - 📫 How to reach me **shubham47047@gmail.com**
 - 📫 LinkedIn **www.linkedin.com/in/shubham-singh47**
 
-- ⚡ Fun fact **I am sarcastic**
+- ⚡ Fun fact **I am sarcastic **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
