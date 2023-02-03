@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning.**
 
-- 💬 Ask me about **Data Visualization and Dashboarding Predictive Modeling and Machine Learning**
+- 💬 Ask me about **Data Visualization and Dashboarding Predictive Modeling and Machine Learning.**
 
 - 📫 How to reach me **shubham47047@gmail.com**
 - 📫 LinkedIn **www.linkedin.com/in/shubham-singh47**
