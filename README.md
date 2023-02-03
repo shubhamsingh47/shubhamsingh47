@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsingh47&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsingh47" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning.**
 
 - 💬 Ask me about **Data Visualization and Dashboarding Predictive Modeling and Machine Learning**
 
