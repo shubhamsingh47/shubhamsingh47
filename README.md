@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
-<h3 align="center">A Data Analyst from India</h3>
+<h3 align="center">A Data Analyst from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.bing.com/th/id/OGC.c083e37550eb4dbe629dcad0cdd52532?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2flP8xu5t2DLGG045H8F%2fgiphy.gif&ehk=k9%2falnrYPPZDLdnVWur7rb3F8a6SbXByEWWR7m1NwQQ%3d">
 
 
