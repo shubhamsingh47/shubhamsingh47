@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shubham Singh</h1>
 <h3 align="center">A Data Analyst from India.</h3>
 
-- 🌱 I’m currently learning **Data governance, Spectral analysis and ML Deployment Techniques**
+- 🌱 I’m currently learning **Data Analysis, Spectral analysis and ML Deployment Techniques**
 
 - 👯 I’m looking to collaborate on **Automated Data pipelines**
 
