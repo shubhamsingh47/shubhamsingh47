@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Shubham Singh</h1>
-<h3 align="center">A Data Analyst from India.</h3>
+<h3 align="center">A Data Scientist from India.</h3>
 
-- 🌱 I’m currently learning **Data Analysis, Spectral analysis and ML Deployment Techniques**
+- 🌱 I’m currently learning **A.I.,LLM's, RAG, Signal Processing, and ML Deployment Techniques**
 
 - 👯 I’m looking to collaborate on **Automated Data pipelines**
 
-- 💬 Ask me about **Python, Spectral data analysis, Machine Learning, Data Analysis, and Automation**
+- 💬 Ask me about **Python, Signal Processing, Machine Learning, Data Analysis, and Automation**
 
 - 📫 How to reach me **shubham47047@gmail.com**
 
